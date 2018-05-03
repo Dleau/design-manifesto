@@ -32,10 +32,10 @@ The concluding step of my design manifesto is to finally implement the technical
 A sound design manifesto lends itself to a sound software project, both conceptually and technically. First, in identifying a problem, a project gains real-world relevance and pertinence. Second, in considering all possible solutions, a development team canvasses the spectrum of conceptual ideation. Third, in identifying a best possible solution, the team adapts a fortified and complete approach to adhere to. Fourth, in designing a technical prototype, the team considers and addresses technical capability and capacity. Fifth, in implementing the prototype, a team develops an application backed by sound research, ideation, and modeling. In using this design manifesto, a software development team will adapt a sturdy, tried and true roadmap to a successful project.
 
 #### In case you missed it
-- [Good design](https://medium.com/@DillonBordeleau/ascending-the-mountain-to-campus-4029a054ac61)
-- [Bad design](https://medium.com/@DillonBordeleau/a-web-of-efficient-hydration-1762bc9016db)
+- [Good design](https://medium.com/@DillonBordeleau/a-web-of-efficient-hydration-1762bc9016db)
+- [Bad design](https://medium.com/@DillonBordeleau/ascending-the-mountain-to-campus-4029a054ac61)
 - [Design for others](https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741)
 - [Design for understanding](https://medium.com/@tberg1234/design-for-understanding-25a38dcd7d3c)
 - [Design for tension](https://medium.com/@DillonBordeleau/a-politically-intelligent-chatbot-4b700ac9d098)
 - [Design for wellbeing](https://medium.com/@brianrojas_78421/design-for-well-being-distractions-357ca3bf3b72)
-- [Design for another world]()
+- [Design for another world](https://medium.com/@winnycheng/design-for-another-world-wizard-chess-a0db65fe5aba)
